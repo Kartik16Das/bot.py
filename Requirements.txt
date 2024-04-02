@@ -1,4 +1,4 @@
-python-telegram-bot
-youtube-dl
-youtube-search-python
-pydub
+python-telegram-bot==13.8
+youtube-dl==2022.2.24
+youtube-search-python==1.4.3
+pydub==0.25.1
